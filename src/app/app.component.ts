@@ -9,4 +9,5 @@ export class AppComponent {
   name = 'Гайк';
   lastName = 'Инанц';
   m = Math;
+
 }
